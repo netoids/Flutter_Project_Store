@@ -45,3 +45,8 @@ class CategoryTile extends StatelessWidget {
     );
   }
 }
+
+
+//Observações importantes 
+
+//ioooa
